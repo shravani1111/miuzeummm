@@ -3516,297 +3516,2161 @@ MANUAL_CATEGORIES = {
     #     "Category:Jharkhand Tribal Art Gallery",
     #     "Category:Tribal Art Gallery Ranchi"
     # ]
-       "Sangrur_Museum": [
-        "Category:Sangrur",
-        "Category:Museums in Punjab",
-        "Category:Museums in India"
+    #    "Sangrur_Museum": [
+    #     "Category:Sangrur",
+    #     "Category:Museums in Punjab",
+    #     "Category:Museums in India"
+    # ],
+
+    # "Palace_Museum_Gangtok": [
+    #     "Category:Gangtok",
+    #     "Category:Palaces in Sikkim",
+    #     "Category:Museums in Sikkim"
+    # ],
+
+    # "Ethnographic_Museum_Shillong": [
+    #     "Category:Ethnographic museums",
+    #     "Category:Shillong",
+    #     "Category:Museums in Meghalaya"
+    # ],
+
+    # "Lok_Virsa_Museum_New_Delhi": [
+    #     "Category:Lok Virsa",
+    #     "Category:Folk culture of India",
+    #     "Category:Museums in Delhi"
+    # ],
+
+    # "Government_Museum_Baroda": [
+    #     "Category:Vadodara",
+    #     "Category:Government Museum, Vadodara",
+    #     "Category:Museums in Gujarat"
+    # ],
+
+    # "District_Museum_Dibrugarh": [
+    #     "Category:Dibrugarh",
+    #     "Category:District museums in India",
+    #     "Category:Museums in Assam"
+    # ],
+
+    # "Museum_of_Religious_Arts_Varanasi": [
+    #     "Category:Varanasi",
+    #     "Category:Religion in India",
+    #     "Category:Museums in Uttar Pradesh"
+    # ],
+
+    # "Government_Museum_Thanjavur": [
+    #     "Category:Thanjavur",
+    #     "Category:Government Museum, Thanjavur",
+    #     "Category:Museums in Tamil Nadu"
+    # ],
+
+    # "Kerala_Museum_of_Folk_Art_Kochi": [
+    #     "Category:Folk art of Kerala",
+    #     "Category:Kochi",
+    #     "Category:Museums in Kerala"
+    # ],
+
+    # "Sanket_Heritage_Museum_Mysuru": [
+    #     "Category:Mysore",
+    #     "Category:Heritage museums in Karnataka",
+    #     "Category:Museums in India"
+    # ],
+
+    # "Museum_of_Punjab_Heritage_Ludhiana": [
+    #     "Category:Punjab Heritage Museum",
+    #     "Category:Ludhiana",
+    #     "Category:Museums in Punjab"
+    # ],
+
+    # "Railway_Heritage_Centre_Chennai": [
+    #     "Category:Railway Heritage Centre, Chennai",
+    #     "Category:Rail transport in India",
+    #     "Category:Museums in Tamil Nadu"
+    # ],
+
+    # "Government_Museum_Ahmedabad": [
+    #     "Category:Central Museum Ahmedabad",
+    #     "Category:Ahmedabad",
+    #     "Category:Museums in Gujarat"
+    # ],
+
+    # "Museum_of_Gujarat_History_Ahmedabad": [
+    #     "Category:Gujarat",
+    #     "Category:History museums in India",
+    #     "Category:Museums in Ahmedabad"
+    # ],
+
+    # "Bikaner_Museum": [
+    #     "Category:Bikaner",
+    #     "Category:Museums in Rajasthan",
+    #     "Category:History of Rajasthan"
+    # ],
+
+    # "Gujarat_Maritime_Museum_Ahmedabad": [
+    #     "Category:Maritime museums in India",
+    #     "Category:Ahmedabad",
+    #     "Category:Gujarat"
+    # ],
+
+    # "Museum_of_National_Defence_New_Delhi": [
+    #     "Category:National Defence Museum",
+    #     "Category:Military history of India",
+    #     "Category:Museums in Delhi"
+    # ],
+
+    # "Museum_of_Indian_Independence_New_Delhi": [
+    #     "Category:Independence museums",
+    #     "Category:Indian independence movement",
+    #     "Category:Museums in Delhi"
+    # ],
+
+    # "Museum_of_Ancient_History_Patna": [
+    #     "Category:Patna",
+    #     "Category:Ancient history museums",
+    #     "Category:Museums in Bihar"
+    # ],
+
+    # "State_Tribal_Museum_Raipur": [
+    #     "Category:State Tribal Museum, Raipur",
+    #     "Category:Tribal culture of Chhattisgarh",
+    #     "Category:Museums in Chhattisgarh"
+    # ],
+
+    # "Museum_of_Indian_Railways_Delhi": [
+    #     "Category:National Rail Museum, New Delhi",
+    #     "Category:Railway museums in India",
+    #     "Category:Rail transport in India"
+    # ],
+
+    # "Museum_of_Indian_Culture_New_Delhi": [
+    #     "Category:Indian culture",
+    #     "Category:Museums in Delhi",
+    #     "Category:Culture of India"
+    # ],
+
+    # "Regional_Science_Centre_Bhubaneswar": [
+    #     "Category:Regional Science Centre, Bhubaneswar",
+    #     "Category:Science museums in India",
+    #     "Category:Bhubaneswar"
+    # ],
+
+    # "Museum_of_Indian_Art_New_Delhi": [
+    #     "Category:Indian art",
+    #     "Category:Art museums and galleries in India",
+    #     "Category:Museums in Delhi"
+    # ],
+
+    # "Heritage_Museum_Ranchi": [
+    #     "Category:Ranchi",
+    #     "Category:Heritage museums in India",
+    #     "Category:Museums in Jharkhand"
+    # ],
+
+    # "Museum_of_Tribal_Culture_Ranchi": [
+    #     "Category:Tribal culture of Jharkhand",
+    #     "Category:Ranchi",
+    #     "Category:Tribal museums in India"
+    # ],
+
+    # "Museum_of_Science_and_Technology_Bhopal": [
+    #     "Category:Science museums in India",
+    #     "Category:Bhopal",
+    #     "Category:Museums in Madhya Pradesh"
+    # ],
+
+    # "Museum_of_Central_Asian_and_Kargil_Trade_Artefacts_Kargil": [
+    #     "Category:Kargil",
+    #     "Category:Central Asian trade",
+    #     "Category:Museums in Ladakh"
+    # ],
+
+    # "Museum_of_Kashmir_Arts_Srinagar": [
+    #     "Category:Art of Jammu and Kashmir",
+    #     "Category:Srinagar",
+    #     "Category:Museums in Jammu and Kashmir"
+    # ],
+
+    # "Museum_of_Handicrafts_Jaipur": [
+    #     "Category:Handicrafts of India",
+    #     "Category:Jaipur",
+    #     "Category:Museums in Rajasthan"
+    # ],
+
+    # "Museum_of_Indian_Textiles_New_Delhi": [
+    #     "Category:Textiles of India",
+    #     "Category:Textile museums in India",
+    #     "Category:Museums in Delhi"
+    # ],
+
+    # "Museum_of_Folk_Arts_Shillong": [
+    #     "Category:Folk arts of Meghalaya",
+    #     "Category:Shillong",
+    #     "Category:Museums in Meghalaya"
+    # ],
+
+    # "Museum_of_Archaeology_and_Ethnology_Guwahati": [
+    #     "Category:Archaeology of Assam",
+    #     "Category:Guwahati",
+    #     "Category:Museums in Assam"
+    # ],
+
+    # "Rajasthan_Textile_Museum_Jodhpur": [
+    #     "Category:Textiles of India",
+    #     "Category:Jodhpur",
+    #     "Category:Museums in Rajasthan"
+    # ],
+
+    # "Coorg_Heritage_Museum_Madikeri": [
+    #     "Category:Coorg",
+    #     "Category:Heritage museums in Karnataka",
+    #     "Category:Museums in Kodagu"
+    # ],
+
+    # "Bengal_Maritime_Museum_Howrah": [
+    #     "Category:Maritime museums in India",
+    #     "Category:Howrah",
+    #     "Category:Museums in West Bengal"
+    # ],
+
+    # "Sikkim_Himalayan_Art_Museum_Gangtok": [
+    #     "Category:Himalayan art",
+    #     "Category:Gangtok",
+    #     "Category:Museums in Sikkim"
+    # ],
+
+    # "Mizoram_Tribal_Heritage_Centre_Aizawl": [
+    #     "Category:Tribal culture of Mizoram",
+    #     "Category:Aizawl",
+    #     "Category:Museums in Mizoram"
+    # ],
+
+    # "Chhattisgarh_Tribal_Museum_Raipur": [
+    #     "Category:Tribal museums in India",
+    #     "Category:Raipur",
+    #     "Category:Museums in Chhattisgarh"
+    # ],
+
+    # "Assam_Silk_Museum_Guwahati": [
+    #     "Category:Silk",
+    #     "Category:Guwahati",
+    #     "Category:Textile museums in India"
+    # ],
+
+    # "Nagaland_War_Memorial_Museum_Kohima": [
+    #     "Category:Kohima",
+    #     "Category:War memorials in India",
+    #     "Category:Museums in Nagaland"
+    # ],
+
+    # "Kerala_Spice_Museum_Kochi": [
+    #     "Category:Spices of India",
+    #     "Category:Kochi",
+    #     "Category:Museums in Kerala"
+    # ],
+
+    # "Uttaranchal_Folk_Arts_Museum_Dehradun": [
+    #     "Category:Folk arts of Uttarakhand",
+    #     "Category:Dehradun",
+    #     "Category:Museums in Uttarakhand"
+    # ],
+
+    # "Tamil_Nadu_Handloom_Museum_Coimbatore": [
+    #     "Category:Handloom weaving",
+    #     "Category:Coimbatore",
+    #     "Category:Textile museums in India"
+    # ],
+
+    # "Odisha_Tribal_Heritage_Museum_Bhubaneswar": [
+    #     "Category:Tribal culture of Odisha",
+    #     "Category:Bhubaneswar",
+    #     "Category:Museums in Odisha"
+    # ],
+
+    # "Haryana_Folk_Culture_Museum_Hisar": [
+    #     "Category:Folk arts of Haryana",
+    #     "Category:Hisar",
+    #     "Category:Museums in Haryana"
+    # ],
+
+    # "MP_Stone_Sculpture_Museum_Indore": [
+    #     "Category:Stone sculptures in India",
+    #     "Category:Indore",
+    #     "Category:Madhya Pradesh art"
+    # ],
+
+    # "Jharkhand_Tribal_Art_Gallery_Ranchi": [
+    #     "Category:Tribal art of Jharkhand",
+    #     "Category:Ranchi",
+    #     "Category:Museums in Jharkhand"
+    # ]
+    #  "Bihar_Archaeological_Museum_Patna": [
+    #     "Category:Bihar Archaeological Museum",
+    #     "Category:Archaeological Museum Patna"
+    # ],
+    # "Punjab_Rural_Heritage_Museum_Ludhiana": [
+    #     "Category:Punjab Rural Heritage Museum",
+    #     "Category:Punjab Rural Heritage Museum Ludhiana"
+    # ],
+    # "West_Bengal_Folk_Museum_Darjeeling": [
+    #     "Category:West Bengal Folk Museum",
+    #     "Category:Folk Museum Darjeeling"
+    # ],
+    # "Karnataka_Palm_Leaf_Manuscript_Museum_Mysore": [
+    #     "Category:Karnataka Palm Leaf Manuscript Museum",
+    #     "Category:Palm Leaf Manuscript Museum Mysore"
+    # ],
+    # "Tripura_Royal_Heritage_Museum_Agartala": [
+    #     "Category:Tripura Royal Heritage Museum",
+    #     "Category:Royal Heritage Museum Agartala"
+    # ],
+    # "Maharashtra_Sculpture_Museum_Nagpur": [
+    #     "Category:Maharashtra Sculpture Museum",
+    #     "Category:Sculpture Museum Nagpur"
+    # ],
+    # "Andhra_Pradesh_Temple_Art_Museum_Visakhapatnam": [
+    #     "Category:Andhra Pradesh Temple Art Museum",
+    #     "Category:Temple Art Museum Visakhapatnam"
+    # ],
+    # "Uttarakhand_Himalayan_Culture_Museum_Nainital": [
+    #     "Category:Uttarakhand Himalayan Culture Museum",
+    #     "Category:Himalayan Culture Museum Nainital"
+    # ],
+    # "Tamil_Nadu_Bronze_Museum_Thanjavur": [
+    #     "Category:Tamil Nadu Bronze Museum",
+    #     "Category:Bronze Museum Thanjavur"
+    # ],
+    # "Rajasthan_Puppet_Museum_Udaipur": [
+    #     "Category:Rajasthan Puppet Museum",
+    #     "Category:Puppet Museum Udaipur"
+    # ],
+    # "Kerala_Boat_Museum_Kollam": [
+    #     "Category:Kerala Boat Museum",
+    #     "Category:Boat Museum Kollam"
+    # ],
+    # "Assam_Tea_Heritage_Museum_Jorhat": [
+    #     "Category:Assam Tea Heritage Museum",
+    #     "Category:Tea Heritage Museum Jorhat"
+    # ],
+    # "Manipur_Tribal_Dance_Museum_Imphal": [
+    #     "Category:Manipur Tribal Dance Museum",
+    #     "Category:Tribal Dance Museum Imphal"
+    # ],
+    # "Nagaland_Bamboo_Art_Museum_Wokha": [
+    #     "Category:Nagaland Bamboo Art Museum",
+    #     "Category:Bamboo Art Museum Wokha"
+    # ],
+    # "West_Bengal_Colonial_History_Museum_Kolkata": [
+    #     "Category:West Bengal Colonial History Museum",
+    #     "Category:Colonial History Museum Kolkata"
+    # ],
+    # "Goa_Shipwreck_Archaeology_Museum_Panjim": [
+    #     "Category:Goa Shipwreck Archaeology Museum",
+    #     "Category:Shipwreck Archaeology Museum Panjim"
+    # ],
+    # "Chhattisgarh_Handicraft_Museum_Bilaspur": [
+    #     "Category:Chhattisgarh Handicraft Museum",
+    #     "Category:Handicraft Museum Bilaspur"
+    # ],
+    # "MP_War_Museum_Indore": [
+    #     "Category:Madhya Pradesh War Museum",
+    #     "Category:War Museum Indore"
+    # ],
+    # "Bihar_Folk_Art_Museum_Muzaffarpur": [
+    #     "Category:Bihar Folk Art Museum",
+    #     "Category:Folk Art Museum Muzaffarpur"
+    # ],
+    # "Punjab_Sikh_Heritage_Museum_Amritsar": [
+    #     "Category:Punjab Sikh Heritage Museum",
+    #     "Category:Sikh Heritage Museum Amritsar"
+    # ],
+    # "Tripura_Tribal_Handloom_Museum_Agartala": [
+    #     "Category:Tripura Tribal Handloom Museum",
+    #     "Category:Tribal Handloom Museum Agartala"
+    # ],
+    # "Tamil_Nadu_Temple_Sculpture_Museum_Madurai": [
+    #     "Category:Tamil Nadu Temple Sculpture Museum",
+    #     "Category:Temple Sculpture Museum Madurai"
+    # ],
+    # "Uttarakhand_Natural_History_Museum_Dehradun": [
+    #     "Category:Uttarakhand Natural History Museum",
+    #     "Category:Natural History Museum Dehradun"
+    # ],
+    # "Karnataka_Mysore_Paintings_Museum_Mysore": [
+    #     "Category:Karnataka Mysore Paintings Museum",
+    #     "Category:Mysore Paintings Museum"
+    # ],
+    # "Rajasthan_Desert_Culture_Museum_Jaisalmer": [
+    #     "Category:Rajasthan Desert Culture Museum",
+    #     "Category:Desert Culture Museum Jaisalmer"
+    # ],
+    # "Kerala_Elephant_Heritage_Museum_Thrissur": [
+    #     "Category:Kerala Elephant Heritage Museum",
+    #     "Category:Elephant Heritage Museum Thrissur"
+    # ],
+    # "Mizoram_Traditional_Dress_Museum_Aizawl": [
+    #     "Category:Mizoram Traditional Dress Museum",
+    #     "Category:Traditional Dress Museum Aizawl"
+    # ],
+    # "Andhra_Pradesh_Colonial_History_Museum_Vijayawada": [
+    #     "Category:Andhra Pradesh Colonial History Museum",
+    #     "Category:Colonial History Museum Vijayawada"
+    # ],
+    # "Assam_Tribal_Music_Museum_Dispur": [
+    #     "Category:Assam Tribal Music Museum",
+    #     "Category:Tribal Music Museum Dispur"
+    # ],
+    # "Nagaland_War_History_Museum_Dimapur": [
+    #     "Category:Nagaland War History Museum",
+    #     "Category:War History Museum Dimapur"
+    # ],
+    # "Bihar_Buddhist_Heritage_Museum_Patna": [
+    #     "Category:Bihar Buddhist Heritage Museum",
+    #     "Category:Buddhist Heritage Museum Patna"
+    # ],
+    # "Punjab_Rural_Arts_Museum_Fatehgarh_Sahib": [
+    #     "Category:Punjab Rural Arts Museum",
+    #     "Category:Rural Arts Museum Fatehgarh Sahib"
+    # ],
+    # "Goa_Church_Art_Museum_Panjim": [
+    #     "Category:Goa Church Art Museum",
+    #     "Category:Church Art Museum Panjim"
+    # ],
+    # "MP_Tribal_Jewellery_Museum_Bhopal": [
+    #     "Category:Madhya Pradesh Tribal Jewellery Museum",
+    #     "Category:Tribal Jewellery Museum Bhopal"
+    # ],
+    # "Tripura_Royal_Armory_Museum_Agartala": [
+    #     "Category:Tripura Royal Armory Museum",
+    #     "Category:Royal Armory Museum Agartala"
+    # ],
+    # "Uttarakhand_Himalayan_Natural_History_Museum_Rishikesh": [
+    #     "Category:Uttarakhand Himalayan Natural History Museum",
+    #     "Category:Himalayan Natural History Museum Rishikesh"
+    # ],
+    # "Kerala_Kathakali_Museum_Kochi": [
+    #     "Category:Kerala Kathakali Museum",
+    #     "Category:Kathakali Museum Kochi"
+    # ],
+    # "Karnataka_Mysore_Royal_Art_Museum_Mysore": [
+    #     "Category:Karnataka Mysore Royal Art Museum",
+    #     "Category:Mysore Royal Art Museum"
+    # ],
+    # "Tamil_Nadu_Bronze_Sculpture_Museum_Chennai": [
+    #     "Category:Tamil Nadu Bronze Sculpture Museum",
+    #     "Category:Bronze Sculpture Museum Chennai"
+    # ],
+    # "Rajasthan_Camel_Heritage_Museum_Bikaner": [
+    #     "Category:Rajasthan Camel Heritage Museum",
+    #     "Category:Camel Heritage Museum Bikaner"
+    # ],
+    # "West_Bengal_Tribal_Art_Museum_Darjeeling": [
+    #     "Category:West Bengal Tribal Art Museum",
+    #     "Category:Tribal Art Museum Darjeeling"
+    # ],
+    # "Assam_Tea_Plantation_Museum_Jorhat": [
+    #     "Category:Assam Tea Plantation Museum",
+    #     "Category:Tea Plantation Museum Jorhat"
+    # ],
+    # "Nagaland_Cultural_History_Museum_Kohima": [
+    #     "Category:Nagaland Cultural History Museum",
+    #     "Category:Cultural History Museum Kohima"
+    # ],
+    # "Goa_Portuguese_Heritage_Museum_Panjim": [
+    #     "Category:Goa Portuguese Heritage Museum",
+    #     "Category:Portuguese Heritage Museum Panjim"
+    # ],
+    # "Chhattisgarh_Folk_Arts_Museum_Raipur": [
+    #     "Category:Chhattisgarh Folk Arts Museum",
+    #     "Category:Folk Arts Museum Raipur"
+    # ],
+    #  "Rajasthan_Textile_Museum_Jodhpur": [
+    #     "Category:Textiles of Rajasthan",
+    #     "Category:Jodhpur Museums"
+    # ],
+    # "Kerala_Spice_Museum_Kochi": [
+    #     "Category:Spices",
+    #     "Category:Museums in Kochi"
+    # ],
+    # "Goa_Archaeological_Museum_Panjim": [
+    #     "Category:Archaeological Museum (Goa)",
+    #     "Category:Museums in Goa"
+    # ],
+    # "West_Bengal_Colonial_History_Museum_Kolkata": [
+    #     "Category:History of Kolkata",
+    #     "Category:Museums in Kolkata"
+    # ],
+    # "Tamil_Nadu_Bronze_Museum_Thanjavur": [
+    #     "Category:Bronze sculptures of Tamil Nadu",
+    #     "Category:Museums in Thanjavur"
+    # ],
+    # "Rajasthan_Puppet_Museum_Udaipur": [
+    #     "Category:Arts in Udaipur",
+    #     "Category:Puppetry in Rajasthan"
+    # ],
+    # "Kerala_Boat_Museum_Kollam": [
+    #     "Category:Boats of Kerala",
+    #     "Category:Museums in Kerala"
+    # ],
+    # "Assam_Tea_Heritage_Museum_Jorhat": [
+    #     "Category:Tea industry in Assam",
+    #     "Category:Museums in Assam"
+    # ],
+    # "Nagaland_Bamboo_Art_Museum_Wokha": [
+    #     "Category:Bamboo art",
+    #     "Category:Museums in Nagaland"
+    # ],
+    # "Tripura_Royal_Heritage_Museum_Agartala": [
+    #     "Category:Agartala",
+    #     "Category:Culture of Tripura"
+    # ]
+    # "Bihar_Archaeological_Museum_Patna": [
+    #     "Category:Archaeological Survey of India",
+    #     "Category:Patna"
+    # ],
+    # "Punjab_Rural_Heritage_Museum_Ludhiana": [
+    #     "Category:Ludhiana",
+    #     "Category:Rural culture of India"
+    # ],
+    # "West_Bengal_Folk_Museum_Darjeeling": [
+    #     "Category:Darjeeling",
+    #     "Category:Folk art of India"
+    # ],
+    # "Karnataka_Palm_Leaf_Manuscript_Museum_Mysore": [
+    #     "Category:Palm leaf manuscripts",
+    #     "Category:Mysore"
+    # ],
+    # "Maharashtra_Sculpture_Museum_Nagpur": [
+    #     "Category:Nagpur",
+    #     "Category:Sculptures in India"
+    # ],
+    # "Andhra_Pradesh_Temple_Art_Museum_Visakhapatnam": [
+    #     "Category:Visakhapatnam",
+    #     "Category:Hindu temple art"
+    # ],
+    # "Uttarakhand_Himalayan_Culture_Museum_Nainital": [
+    #     "Category:Nainital",
+    #     "Category:Himalayan culture"
+    # ],
+    # "Tamil_Nadu_Bronze_Museum_Thanjavur": [
+    #     "Category:Bronze sculptures of Tamil Nadu",
+    #     "Category:Thanjavur"
+    # ],
+    # "Rajasthan_Puppet_Museum_Udaipur": [
+    #     "Category:Puppetry in Rajasthan",
+    #     "Category:Udaipur"
+    # ],
+    # "Manipur_Tribal_Dance_Museum_Imphal": [
+    #     "Category:Imphal",
+    #     "Category:Tribal dances of India"
+    # ],
+    # "Nagaland_Bamboo_Art_Museum_Wokha": [
+    #     "Category:Wokha district",
+    #     "Category:Bamboo crafts"
+    # ],
+    # "Goa_Shipwreck_Archaeology_Museum_Panjim": [
+    #     "Category:Shipwrecks of India",
+    #     "Category:Panjim"
+    # ],
+    # "Chhattisgarh_Handicraft_Museum_Bilaspur": [
+    #     "Category:Bilaspur district, Chhattisgarh",
+    #     "Category:Handicrafts of India"
+    # ],
+    # "MP_War_Museum_Indore": [
+    #     "Category:Indore",
+    #     "Category:War memorials in India"
+    # ],
+    # "Bihar_Folk_Art_Museum_Muzaffarpur": [
+    #     "Category:Muzaffarpur",
+    #     "Category:Folk art of India"
+    # ],
+    # "Punjab_Sikh_Heritage_Museum_Amritsar": [
+    #     "Category:Amritsar",
+    #     "Category:Sikh culture"
+    # ],
+    # "Tripura_Tribal_Handloom_Museum_Agartala": [
+    #     "Category:Agartala",
+    #     "Category:Handloom industry in India"
+    # ],
+    # "Tamil_Nadu_Temple_Sculpture_Museum_Madurai": [
+    #     "Category:Madurai",
+    #     "Category:Hindu temple sculpture"
+    # ],
+    # "Uttarakhand_Natural_History_Museum_Dehradun": [
+    #     "Category:Dehradun",
+    #     "Category:Natural history museums in India"
+    # ],
+    # "Karnataka_Mysore_Paintings_Museum_Mysore": [
+    #     "Category:Mysore painting",
+    #     "Category:Mysore"
+    # ]
+    # "National_Museum_New_Delhi": [
+    #     "Category:National Museum, New Delhi",
+    #     "Category:Interiors of National Museum, New Delhi"
+    # ],
+    # "National_Gallery_of_Modern_Art_New_Delhi": [
+    #     "Category:National Gallery of Modern Art, New Delhi"
+    # ],
+    # "Bharat_Kala_Bhavan_Varanasi": [
+    #     "Category:Bharat Kala Bhavan"
+    # ],
+    # "Salar_Jung_Museum_Hyderabad": [
+    #     "Category:Salar Jung Museum",
+    #     "Category:Interiors of Salar Jung Museum"
+    # ],
+    # "Bihar_Museum_Patna": [
+    #     "Category:Bihar Museum"
+    # ],
+    # "Victoria_Memorial_Kolkata": [
+    #     "Category:Victoria Memorial, Kolkata",
+    #     "Category:Interior of Victoria Memorial"
+    # ],
+    # "Indian_Museum_Kolkata": [
+    #     "Category:Indian Museum, Kolkata",
+    #     "Category:Interiors of Indian Museum"
+    # ],
+    # "Allahabad_Museum": [
+    #     "Category:Allahabad Museum"
+    # ],
+    # "Government_Museum_Egmore_Chennai": [
+    #     "Category:Government Museum, Chennai",
+    #     "Category:Interiors of the Government Museum Chennai"
+    # ],
+    # "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Mumbai": [
+    #     "Category:Prince of Wales Museum, Mumbai",
+    #     "Category:Interiors of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya"
+    # ],
+    # "Manipur_State_Museum": [
+    #     "Category:Manipur State Museum"
+    # ],
+    # "National_Rail_Museum_New_Delhi": [
+    #     "Category:National Rail Museum, New Delhi"
+    # ],
+    # "Rail_Museum_Mysore": [
+    #     "Category:Rail Museum, Mysuru"
+    # ],
+    # "Gwalior_Fort_Museum": [
+    #     "Category:Gwalior Fort Museum"
+    # ],
+    # "Khajuraho_Archaeological_Museum": [
+    #     "Category:Khajuraho Archaeological Museum"
+    # ],
+    # "Archaeological_Museum_Hampi": [
+    #     "Category:Archaeological Museum, Hampi"
+    # ],
+    # "Calico_Museum_of_Textiles_Ahmedabad": [
+    #     "Category:Calico Museum of Textiles"
+    # ],
+    # "Napier_Museum_Thiruvananthapuram": [
+    #     "Category:Napier Museum"
+    # ],
+    # "Gandhi_Smriti_New_Delhi": [
+    #     "Category:Gandhi Smriti"
+    # ],
+    # "Indira_Gandhi_Memorial_Museum_New_Delhi": [
+    #     "Category:Indira Gandhi Memorial Museum"
+    # ],
+    # # "Shankar's_International_Dolls_Museum_Delhi": [
+    # #     "Category:Shankar's International Dolls Museum"
+    # # ],
+    # # "Lok_Kala_Mandal_Udaipur": [
+    # #     "Category:Folk Art Museum, Udaipur"
+    # # ],
+    # # "Jawahar_Kala_Kendra_Jaipur": [
+    # #     "Category:Jawahar Kala Kendra"
+    # # ],
+    # # "HAL_Heritage_Centre_and_Aerospace_Museum_Bangalore": [
+    # #     "Category:HAL Aerospace Museum"
+    # # ],
+    # # "Regional_Science_Centre_Bhopal": [
+    # #     "Category:Regional Science Centre, Bhopal"
+    # # ],
+    # # "Gujarat_Science_City": [
+    # #     "Category:Gujarat Science City"
+    # # ],
+    # # "Sundarbans_Interpretation_Centre_Kolkata": [
+    # #     "Category:Sundarbans Interpretation Centre"
+    # # ]
+    #    "Bharat_Kala_Bhavan_Varanasi": [
+    #     "Category:Bharat Kala Bhavan, Varanasi"
+    # ],
+
+    # "Darjeeling_Himalayan_Railway_Museum_Darjeeling": [
+    #     "Category:Darjeeling Himalayan Railway Museum, Darjeeling"
+    # ],
+
+    # "Assam_State_Museum_Guwahati": [
+    #     "Category:Assam State Museum, Guwahati"
+    # ],
+
+    # "Chhattisgarh_State_Museum_Raipur": [
+    #     "Category:Chhattisgarh State Museum, Raipur"
+    # ],
+
+    # "Wayanad_Heritage_Museum_Wayanad": [
+    #     "Category:Wayanad Heritage Museum, Wayanad"
+    # ],
+
+    # "West_Bengal_Police_Museum_Kolkata": [
+    #     "Category:West Bengal Police Museum, Kolkata"
+    # ],
+
+    # "Zoological_Museum_Kolkata": [
+    #     "Category:Zoological Museum, Kolkata"
+    # ],
+
+    # "Vellore_Fort_Museum_Vellore": [
+    #     "Category:Vellore Fort Museum, Vellore"
+    # ],
+
+    # "Vasai_Fort_Museum_Vasai": [
+    #     "Category:Vasai Fort Museum, Vasai"
+    # ],
+
+    # "Coorg_Museum_Coorg": [
+    #     "Category:Coorg Museum, Coorg"
+    # ],
+
+    # "Chamba_Museum_Chamba": [
+    #     "Category:Chamba Museum, Chamba"
+    # ],
+
+    # "Aurangabad_Caves_Museum_Aurangabad": [
+    #     "Category:Aurangabad Caves Museum, Aurangabad"
+    # ],
+
+    # "Archaeological_Museum_Bhopal": [
+    #     "Category:Archaeological Museum, Bhopal"
+    # ],
+
+    # "Archaeological_Museum_Mathura": [
+    #     "Category:Archaeological Museum, Mathura"
+    # ],
+
+    # "Bastar_Tribal_Museum_Bastar": [
+    #     "Category:Bastar Tribal Museum, Bastar"
+    # ],
+
+    # "Bhilai_Steel_Plant_Museum_Bhilai": [
+    #     "Category:Bhilai Steel Plant Museum, Bhilai"
+    # ],
+
+    # "Bhadrak_Museum_Bhadrak": [
+    #     "Category:Bhadrak Museum, Bhadrak"
+    # ],
+
+    # "Bengal_Museum_of_Industrial_Archaeology_Kolkata": [
+    #     "Category:Bengal Museum of Industrial Archaeology, Kolkata"
+    # ],
+
+    # "Balasore_Museum_Balasore": [
+    #     "Category:Balasore Museum, Balasore"
+    # ],
+
+    # "Amravati_Archaeological_Museum_Amravati": [
+    #     "Category:Amravati Archaeological Museum, Amravati"
+    # ],
+
+    # "Ambedkar_Memorial_Indore": [
+    #     "Category:Ambedkar Memorial, Indore"
+    # ],
+
+    # "Alappuzha_Maritime_Museum_Alappuzha": [
+    #     "Category:Alappuzha Maritime Museum, Alappuzha"
+    # ],
+
+    # "Acharya_Jagadish_Chandra_Bose_Indian_Botanical_Museum_Kolkata": [
+    #     "Category:Acharya Jagadish Chandra Bose Indian Botanical Museum, Kolkata"
+    # ],
+
+    # "Darbhanga_Museum_Darbhanga": [
+    #     "Category:Darbhanga Museum, Darbhanga"
+    # ],
+
+    # "Dehradun_Fossil_Museum_Dehradun": [
+    #     "Category:Dehradun Fossil Museum, Dehradun"
+    # ],
+
+    # "Dharamshala_Museum_Dharamshala": [
+    #     "Category:Dharamshala Museum, Dharamshala"
+    # ],
+
+    # "Gandhinagar_Science_Museum_Gandhinagar": [
+    #     "Category:Gandhinagar Science Museum, Gandhinagar"
+    # ],
+
+    # "Gaya_Museum_Gaya": [
+    #     "Category:Gaya Museum, Gaya"
+    # ],
+
+    # "Guntur_Museum_Guntur": [
+    #     "Category:Guntur Museum, Guntur"
+    # ],
+
+    # "Haridwar_Museum_Haridwar": [
+    #     "Category:Haridwar Museum, Haridwar"
+    # ],
+
+    # "Howrah_Museum_Howrah": [
+    #     "Category:Howrah Museum, Howrah"
+    # ],
+
+    # "Indore_Museum_Indore": [
+    #     "Category:Indore Museum, Indore"
+    # ],
+
+    # "Itanagar_State_Museum_Itanagar": [
+    #     "Category:Itanagar State Museum, Itanagar"
+    # ],
+
+    # "Jaipur_City_Museum_Jaipur": [
+    #     "Category:Jaipur City Museum, Jaipur"
+    # ],
+
+    # "Jhansi_Fort_Museum_Jhansi": [
+    #     "Category:Jhansi Fort Museum, Jhansi"
+    # ],
+
+    # # "Kanyakumari_Museum_Kanyakumari": [
+    # #     "Category:Kanyakumari Museum, Kanyakumari"
+    # # ]
+    #    "New_Delhi_Railway_Museum_New_Delhi": [
+    #     "Category:National Rail Museum, New Delhi"
+    # ],
+    # "Assam_State_Museum_Guwahati": [
+    #     "Category:Assam State Museum, Guwahati"
+    # ],
+    # "Aurangabad_Caves_Museum_Aurangabad": [
+    #     "Category:Aurangabad Caves"
+    # ],
+    # "Darjeeling_Himalayan_Railway_Museum_Darjeeling": [
+    #     "Category:Darjeeling Himalayan Railway Museum, Darjeeling"
+    # ],
+    # "Acharya_Jagadish_Chandra_Bose_Indian_Botanical_Museum_Kolkata": [
+    #     "Category:Acharya Jagadish Chandra Bose Indian Botanical Museum, Kolkata"
+    # ],
+    # "Dehradun_Fossil_Museum_Dehradun": [
+    #     "Category:Dehradun Fossil Museum, Dehradun"
+    # ],
+    # "Wayanad_Heritage_Museum_Wayanad": [
+    #     "Category:Wayanad Heritage Museum, Wayanad"
+    # ],
+    # "Vellore_Fort_Museum_Vellore": [
+    #     "Category:Vellore Fort Museum, Vellore"
+    # ],
+    # "Vasai_Fort_Museum_Vasai": [
+    #     "Category:Vasai Fort Museum, Vasai"
+    # ],
+    # "Coorg_Museum_Coorg": [
+    #     "Category:Coorg Museum, Coorg"
+    # ],
+    # "Chamba_Museum_Chamba": [
+    #     "Category:Chamba Museum, Chamba"
+    # ],
+    # "Archaeological_Museum_Bhopal": [
+    #     "Category:Archaeological Museum, Bhopal"
+    # ],
+    # "Archaeological_Museum_Mathura": [
+    #     "Category:Archaeological Museum, Mathura"
+    # ],
+    # "Bastar_Tribal_Museum_Bastar": [
+    #     "Category:Bastar Tribal Museum, Bastar"
+    # ],
+    # "Bhilai_Steel_Plant_Museum_Bhilai": [
+    #     "Category:Bhilai Steel Plant Museum, Bhilai"
+    # ],
+    # "Bhadrak_Museum_Bhadrak": [
+    #     "Category:Bhadrak Museum, Bhadrak"
+    # ],
+    # "Bengal_Museum_of_Industrial_Archaeology_Kolkata": [
+    #     "Category:Bengal Museum of Industrial Archaeology, Kolkata"
+    # ],
+    # "Balasore_Museum_Balasore": [
+    #     "Category:Balasore Museum, Balasore"
+    # # ],
+    # # "Ambedkar_Memorial_Indore": [
+    # #     "Category:Ambedkar Memorial, Indore"
+    # # ],
+    # # "Indore_Museum_Indore": [
+    # #     "Category:Indore Museum, Indore"
+    # # ],
+    # # "Itanagar_State_Museum_Itanagar": [
+    # #     "Category:Itanagar State Museum, Itanagar"
+    # # ],
+    # # "Jaipur_City_Museum_Jaipur": [
+    # #     "Category:Jaipur City Museum, Jaipur"
+    # # ]
+    # "Thanjavur_Archaeological_Museum_Thanjavur": [
+    #     "Category:Thanjavur Art Gallery"
+    # ],
+
+    # "Thrissur_Museum_Thrissur": [
+    #     "Category:Archaeological Museum, Thrissur"
+    # ],
+
+    # "Shimla_State_Museum_Shimla": [
+    #     "Category:Shimla State Museum"
+    # ],
+
+    # "Orai_Museum_Orai": [
+    #     # Has no dedicated museum category, but images exist under city category
+    #     "Category:Orai"
+    # ],
+
+#     # "Palakkad_Museum_Palakkad": [
+#     #     "Category:Palakkad"
+#     # ],
+
+#     # "Panchkula_Museum_Panchkula": [
+#     #     "Category:Panchkula"
+#     # ],
+# "Darbhanga_Museum_Darbhanga": [
+#         "Category:Darbhanga"
+#     ],
+
+#     "Dharamshala_Museum_Dharamshala": [
+#         "Category:Dharamshala"
+#     ],
+
+#     "Aurangabad_Caves_Museum_Aurangabad": [
+#         "Category:Aurangabad Caves"
+#     ],
+
+#     "Asansol_Museum_Asansol": [
+#         "Category:Asansol"
+#     ],
+
+#     "Archaeological_Museum_Mathura": [
+#         "Category:Government Museum, Mathura"
+#     ],
+
+#     "Archaeological_Museum_Bhopal": [
+#         "Category:State Museum, Bhopal"
+#     ],
+
+#     "Almora_Museum_Almora": [
+#         "Category:Almora"
+#     ],
+
+#     "Adilabad_Museum_Adilabad": [
+#         "Category:Adilabad"
+#     ],
+
+#     "Aizawl_Museum_Aizawl": [
+#         "Category:Aizawl"
+#     ],
+
+#     "Alappuzha_Maritime_Museum_Alappuzha": [
+#         "Category:Alleppey"
+#     ],
+
+#     "Aligarh_Museum_Aligarh": [
+#         "Category:Aligarh"
+#     ],
+
+#     "Anand_Museum_Anand": [
+#         "Category:Anand"
+#     ],
+
+#     "Assam_State_Museum_Guwahati": [
+#         "Category:Assam State Museum"
+#     ],
+
+#     "Bhilai_Steel_Plant_Museum_Bhilai": [
+#         "Category:Bhilai Steel Plant"
+#     ],
+
+#     "Brahmapur_Museum_Brahmapur": [
+#         "Category:Brahmapur"
+#     ],
+
+#     "Chakradharpur_Museum_Chakradharpur": [
+#         "Category:Chakradharpur"
+#     ],
+
+#     "Chamba_Museum_Chamba": [
+#         "Category:Chamba (Himachal Pradesh)"
+#     ],
+
+#     "Coorg_Museum_Coorg": [
+#         "Category:Kodagu district"
+#     ],
+
+#     "Bankura_Museum_Bankura": [
+#         "Category:Bankura"
+#     ],
+
+#     "Balasore_Museum_Balasore": [
+#         "Category:Balasore"
+#     ],
+
+#     "Bastar_Tribal_Museum_Bastar": [
+#         "Category:Bastar district"
+#     ],
+
+#     "Begum_Rokeya_Museum_Ranaghat": [
+#         "Category:Ranaghat"
+#     ],
+
+#     "Darrang_Museum_Mangaldoi": [
+#         "Category:Mangaldoi"
+#     ],
+
+#     "Bengal_Museum_of_Industrial_Archaeology_Kolkata": [
+#         "Category:Kolkata"
+#     ],
+
+#     "Bhadrak_Museum_Bhadrak": [
+#         "Category:Bhadrak"
+#     ],
+
+#     "Bhandara_Museum_Bhandara": [
+#         "Category:Bhandara"
+#     ],
+
+#     "Chhattisgarh_State_Museum_Raipur": [
+#         "Category:Raipur"
+#     ],
+
+#     "Coimbatore_Museum_Coimbatore": [
+#         "Category:Coimbatore"
+#     ],
+
+#     "Dehradun_Fossil_Museum_Dehradun": [
+#         "Category:Dehradun"
+#     ],
+
+#     "Gandhinagar_Science_Museum_Gandhinagar": [
+#         "Category:Gandhinagar"
+#     ],
+
+#     "Vasai_Fort_Museum_Vasai": [
+#         "Category:Vasai Fort"
+#     ],
+
+#     "Vellore_Fort_Museum_Vellore": [
+#         "Category:Vellore Fort"
+#     ],
+
+#     "Veraval_Museum_Veraval": [
+#         "Category:Veraval"
+#     ],
+
+#     "Vizianagaram_Museum_Vizianagaram": [
+#         "Category:Vizianagaram"
+#     ],
+
+#     "West_Bengal_Police_Museum_Kolkata": [
+#         "Category:West Bengal Police Museum"
+#     ],
+
+#     "Yamunanagar_Museum_Yamunanagar": [
+#         "Category:Yamunanagar"
+#     ],
+
+#     "Zawar_Mines_Museum_Udaipur": [
+#         "Category:Zawar mines"
+#     ],
+#     "Wayanad_Heritage_Museum_Wayanad": [
+#         "Category:Wayanad Heritage Museum"
+#     ],
+
+#     "Zoological_Museum_Kolkata": [
+#         "Category:Zoological Museum, Kolkata"
+#     ],
+
+#     "Panaji_Museum_Panaji": [
+#         "Category:Panjim"
+#     ],
+
+#     "Pune_Museum_Pune": [
+#         "Category:Pune"
+#     ],
+
+#     "Rajkot_Museum_Rajkot": [
+#         "Category:Rajkot"
+#     ],
+
+#     "Rajnandgaon_Museum_Rajnandgaon": [
+#         "Category:Rajnandgaon"
+#     ],
+
+#     "Raipur_Museum_Raipur": [
+#         "Category:Raipur"
+#     ],
+
+#     "Rohtak_Museum_Rohtak": [
+#         "Category:Rohtak"
+#     ],
+
+#     "Salem_Museum_Salem": [
+#         "Category:Salem, Tamil Nadu"
+#     ],
+
+#     "Sambalpur_Museum_Sambalpur": [
+#         "Category:Sambalpur"
+#     ],
+
+#     "Sangli_Museum_Sangli": [
+#         "Category:Sangli"
+#     ],
+
+#     "Satara_Museum_Satara": [
+#         "Category:Satara"
+#     ],
+
+#     "Shimla_State_Museum_Shimla": [
+#         "Category:Shimla State Museum"
+#     ],
+
+#     "Siliguri_Museum_Siliguri": [
+#         "Category:Siliguri"
+#     ],
+
+#     "Solapur_Museum_Solapur": [
+#         "Category:Solapur"
+#     ],
+
+#     "Srinagar_Museum_Srinagar": [
+#         "Category:Srinagar"
+#     ],
+
+#     "Thanjavur_Archaeological_Museum_Thanjavur": [
+#         "Category:Thanjavur Archaeological Museum"
+#     ],
+
+#     "Thiruvananthapuram_Museum_Thiruvananthapuram": [
+#         "Category:Thiruvananthapuram"
+#     ],
+
+#     "Thrissur_Museum_Thrissur": [
+#         "Category:Thrissur"
+#     ],
+
+#     "Tiruchirappalli_Museum_Tiruchirappalli": [
+#         "Category:Tiruchirappalli"
+#     ],
+
+#     "Tirunelveli_Museum_Tirunelveli": [
+#         "Category:Tirunelveli"
+#     ],
+
+#     "Udupi_Museum_Udupi": [
+#         "Category:Udupi"
+#     ],
+
+#     "Vadodara_Museum_Vadodara": [
+#         "Category:Vadodara Museum & Picture Gallery"
+#     ],
+
+#     "Varanasi_Museum_Varanasi": [
+#         "Category:Varanasi"
+#     ],
+
+#     "Vellore_Museum_Vellore": [
+#         "Category:Vellore"
+#     ],
+
+#     "Vidisha_Museum_Vidisha": [
+#         "Category:Vidisha"
+#     ],
+
+#     "Warangal_Museum_Warangal": [
+#         "Category:Warangal Fort"
+#     ],
+
+#     "Acharya_Jagadish_Chandra_Bose_Indian_Botanical_Museum_Kolkata": [
+#         "Category:Botanical Survey of India"
+#     ],
+
+#     "Assam_State_Museum_Guwahati": [
+#         "Category:Assam State Museum"
+#     ],
+
+#     "Bhilai_Steel_Plant_Museum_Bhilai": [
+#         "Category:Bhilai Steel Plant"
+#     ],
+
+#     "Chennai_Museum_Chennai": [
+#         "Category:Chennai"
+#     ],
+
+#     "Chitradurga_Fort_Museum_Chitradurga": [
+#         "Category:Chitradurga Fort"
+#     ],
+
+#     "Dhanbad_Museum_Dhanbad": [
+#         "Category:Dhanbad"
+#     ],
+
+#     "Gandhinagar_Science_Museum_Gandhinagar": [
+#         "Category:Gandhinagar"
+#     ],
+
+#     "Vasai_Fort_Museum_Vasai": [
+#         "Category:Vasai Fort"
+#     ],
+
+#     "Veraval_Museum_Veraval": [
+#         "Category:Veraval"
+#     ],
+
+#     "Yamunanagar_Museum_Yamunanagar": [
+#         "Category:Yamunanagar"
+#     ]
+
+    # "Panaji_Museum_Panaji": [
+    #     "Category:Panaji"
+    # ],
+
+    # "Raipur_Museum_Raipur": [
+    #     "Category:Raipur"
+    # ],
+
+    # "Raurkela_Museum_Raurkela": [
+    #     "Category:Rourkela"
+    # ],
+
+    # "Sambalpur_Museum_Sambalpur": [
+    #     "Category:Sambalpur"
+    # ],
+
+    # "Silchar_Museum_Silchar": [
+    #     "Category:Silchar"
+    # ],
+
+    # "Siliguri_Museum_Siliguri": [
+    #     "Category:Siliguri"
+    # ],
+
+    # "Solapur_Museum_Solapur": [
+    #     "Category:Solapur"
+    # ],
+
+    # "Tezpur_Museum_Tezpur": [
+    #     "Category:Tezpur"
+    # ],
+
+    # "Udupi_Museum_Udupi": [
+    #     "Category:Udupi"
+    # ],
+
+    # "Varanasi_Museum_Varanasi": [
+    #     "Category:Varanasi"
+    # ],
+
+    # "Warangal_Museum_Warangal": [
+    #     "Category:Warangal"
+    # ],
+
+    # "Wayanad_Heritage_Museum_Wayanad": [
+    #     "Category:Wayanad Heritage Museum"
+    # ],
+
+    # "Zoological_Museum_Kolkata": [
+    #     "Category:Zoological Museum, Kolkata"
+    # ],
+
+    # "Balangir_Museum_Balangir": [
+    #     "Category:Balangir"
+    # ],
+
+    # "Barmer_Museum_Barmer": [
+    #     "Category:Barmer"
+    # ],
+
+    # "Begusarai_Museum_Begusarai": [
+    #     "Category:Begusarai"
+    # ],
+
+    # "Brahmapur_Museum_Brahmapur": [
+    #     "Category:Brahmapur"
+    # ],
+
+    # "Chennai_Museum_Chennai": [
+    #     "Category:Government Museum, Chennai"
+    # ],
+
+    # "Chitradurga_Fort_Museum_Chitradurga": [
+    #     "Category:Chitradurga Fort"
+    # ],
+
+    # "Darrang_Museum_Mangaldoi": [
+    #     "Category:Mangaldoi"
+    # ],
+
+    # "Dhanbad_Museum_Dhanbad": [
+    #     "Category:Dhanbad"
+    # ]
+    #  "Shimla_State_Museum_Shimla": [
+    #     "Category:Interior of the Shimla State Museum"
+    # ],
+    # "Thanjavur_Archaeological_Museum_Thanjavur": [
+    #     "Category:Interior of the Thanjavur Archaeological Museum"
+    # ],
+    # "Thrissur_Museum_Thrissur": [
+    #     "Category:Interior of the Thrissur Museum"
+    # ],
+    # "Zoological_Museum_Kolkata": [
+    #     "Category:Interior of the Zoological Museum"
+    # ],
+    # "Assam_State_Museum_Guwahati": [
+    #     "Category:Interior of the Assam State Museum"
+    # ],
+    # "Wayanad_Heritage_Museum_Wayanad": [
+    #     "Category:Interior of the Wayanad Heritage Museum"
+    # ],
+    # "Vellore_Fort_Museum_Vellore": [
+    #     "Category:Interior of the Vellore Fort Museum"
+    # ],
+    # "Bast ar_Tribal_Museum_Bastar": [
+    #     "Category:Interior of the Bastar Tribal Museum"
+    # ],
+    # "Chamba_Museum_Chamba": [
+    #     "Category:Interior of the Chamba Museum"
+    # ],
+    # "Darbhanga_Museum_Darbhanga": [
+    #     "Category:Interior of the Darbhanga Museum"
+    # ],
+    # "Dharamshala_Museum_Dharamshala": [
+    #     "Category:Interior of the Dharamshala Museum"
+    # ],
+    #   "Bankura_Museum_Bankura": [
+    #     "Category:Interior of the Bankura Museum"
+    # ],
+    # "Balasore_Museum_Balasore": [
+    #     "Category:Interior of the Balasore Museum"
+    # ],
+    # "Bhilai_Steel_Plant_Museum_Bhilai": [
+    #     "Category:Interior of the Bhilai Steel Plant Museum"
+    # ],
+    # "Chennai_Museum_Chennai": [
+    #     "Category:Interior of the Chennai Museum"
+    # ],
+    # "Coimbatore_Museum_Coimbatore": [
+    #     "Category:Interior of the Coimbatore Museum"
+    # ],
+    # "Dehradun_Fossil_Museum_Dehradun": [
+    #     "Category:Interior of the Dehradun Fossil Museum"
+    # ],
+    # "Gandhinagar_Science_Museum_Gandhinagar": [
+    #     "Category:Interior of the Gandhinagar Science Museum"
+    # ],
+    # "Vasai_Fort_Museum_Vasai": [
+    #     "Category:Interior of the Vasai Fort Museum"
+    # ],
+    # "Veraval_Museum_Veraval": [
+    #     "Category:Interior of the Veraval Museum"
+    # ],
+    # "Vizianagaram_Museum_Vizianagaram": [
+    #     "Category:Interior of the Vizianagaram Museum"
+    # ],
+    # "West_Bengal_Police_Museum_Kolkata": [
+    #     "Category:Interior of the West Bengal Police Museum"
+    # ],
+    #   "Zoological_Museum_Kolkata": [
+    #     "Category:Interior of the Zoological Museum, Kolkata"
+    # ],
+    # "Almora_Museum_Almora": [
+    #     "Category:Interior of the Almora Museum"
+    # ],
+    # "Archaeological_Museum_Mathura": [
+    #     "Category:Interior of the Archaeological Museum, Mathura"
+    # ],
+    # "Aurangabad_Caves_Museum_Aurangabad": [
+    #     "Category:Interior of the Aurangabad Caves Museum"
+    # ],
+    # "Bastar_Tribal_Museum_Bastar": [
+    #     "Category:Interior of the Bastar Tribal Museum"
+    # ],
+    # "Chamba_Museum_Chamba": [
+    #     "Category:Interior of the Chamba Museum"
+    # ],
+    # "Coorg_Museum_Coorg": [
+    #     "Category:Interior of the Coorg Museum"
+    # ],
+    # "Darbhanga_Museum_Darbhanga": [
+    #     "Category:Interior of the Darbhanga Museum"
+    # ],
+    # "Dharamshala_Museum_Dharamshala": [
+    #     "Category:Interior of the Dharamshala Museum"
+    # ],
+    #   "Dehradun_Fossil_Museum_Dehradun": [
+    #     "Category:Interior of the Dehradun Fossil Museum"
+    # ],
+    # "Gandhinagar_Science_Museum_Gandhinagar": [
+    #     "Category:Interior of the Gandhinagar Science Museum"
+    # ],
+    # "Vellore_Fort_Museum_Vellore": [
+    #     "Category:Interior of the Vellore Fort Museum"
+    # ],
+    # "Wayanad_Heritage_Museum_Wayanad": [
+    #     "Category:Interior of the Wayanad Heritage Museum"
+    # ],
+    # "West_Bengal_Police_Museum_Kolkata": [
+    #     "Category:Interior of the West Bengal Police Museum"
+    # ],
+    # "Zawar_Mines_Museum_Udaipur": [
+    #     "Category:Interior of the Zawar Mines Museum"
+    # ],
+    # "Adilabad_Museum_Adilabad": [
+    #     "Category:Interior of the Adilabad Museum"
+    # ]
+#        "Almora_Museum_Almora": [
+#         "Category:Interior of the Almora Museum"
+#     ],
+#     "Asansol_Museum_Asansol": [
+#         "Category:Interior of the Asansol Museum"
+#     ],
+#     "Balasore_Museum_Balasore": [
+#         "Category:Interior of the Balasore Museum"
+#     ],
+#     "Bankura_Museum_Bankura": [
+#         "Category:Interior of the Bankura Museum"
+#     ],
+#     "Bastar_Tribal_Museum_Bastar": [
+#         "Category:Interior of the Bastar Tribal Museum"
+#     ],
+#     "Chakradharpur_Museum_Chakradharpur": [
+#         "Category:Interior of the Chakradharpur Museum"
+#     ],
+#     "Coorg_Museum_Coorg": [
+#         "Category:Interior of the Coorg Museum"
+#     ],
+#     "Darrang_Museum_Mangaldoi": [
+#         "Category:Interior of the Darrang Museum"
+#     ],
+#      "Dharamshala_Museum_Dharamshala": [
+#         "Category:Interior of the Dharamshala Museum"
+#     ],
+#     "Darbhanga_Museum_Darbhanga": [
+#         "Category:Interior of the Darbhanga Museum"
+#     ],
+#     "Chamba_Museum_Chamba": [
+#         "Category:Interior of the Chamba Museum"
+#     ],
+#     "Assam_State_Museum_Guwahati": [
+#         "Category:Interiors of Assam State Museum"
+#     ],
+#     "Bhilai_Steel_Plant_Museum_Bhilai": [
+#         "Category:Interior of Bhilai Steel Plant Museum"
+#     ],
+#       "Balangir_Museum_Balangir": [
+#         "Category:Interior of the Balangir Museum"
+#     ],
+#     "Bhadrak_Museum_Bhadrak": [
+#         "Category:Interior of the Bhadrak Museum"
+#     ],
+#     "Bhandara_Museum_Bhandara": [
+#         "Category:Interior of the Bhandara Museum"
+#     ],
+#     "Chhattisgarh_State_Museum_Raipur": [
+#         "Category:Interior of the Chhattisgarh State Museum"
+#     ],
+#     "Dehradun_Fossil_Museum_Dehradun": [
+#         "Category:Interior of the Dehradun Fossil Museum"
+#     ],
+#      "Chakradharpur_Museum_Chakradharpur": [
+#         "Category:Interior of the Chakradharpur Museum"
+#     ],
+#     "Chamba_Museum_Chamba": [
+#         "Category:Interior of the Chamba Museum"
+#     ],
+#     "Coorg_Museum_Coorg": [
+#         "Category:Interior of the Coorg Museum"
+#     ],
+#     "Darbhanga_Museum_Darbhanga": [
+#         "Category:Interior of the Darbhanga Museum"
+#     ],
+#     "Darrang_Museum_Mangaldoi": [
+#         "Category:Interior of the Darrang Museum"
+#     ]
+#     "Dibrugarh_Museum_Dibrugarh": [
+#     "Category:Dibrugarh Museum, Dibrugarh",
+#     "Category:Highlights Assam's local history and ethnography."
+# ],
+
+# "Dindigul_Museum_Dindigul": [
+#     "Category:Dindigul Museum, Dindigul",
+#     "Category:Preserves regional artifacts and Dindigul's historical records."
+# ],
+
+# "East_Singhbhum_Museum_Jamshedpur": [
+#     "Category:East Singhbhum Museum, Jamshedpur",
+#     "Category:Focuses on the area's industrial heritage and mining history."
+# ],
+
+# "Erode_Museum_Erode": [
+#     "Category:Erode Museum, Erode",
+#     "Category:Exhibits local history and textile-related cultural items."
+# ],
+
+# "Fatehgarh_Sahib_Museum_Fatehgarh_Sahib": [
+#     "Category:Fatehgarh Sahib Museum, Fatehgarh Sahib",
+#     "Category:Documents the region's Sikh and local historical events."
+# ],
+
+# "Firozabad_Museum_Firozabad": [
+#     "Category:Firozabad Museum, Firozabad",
+#     "Category:Showcases local history and the city's glass-making heritage."
+# ],
+
+# "Gadchiroli_Museum_Gadchiroli": [
+#     "Category:Gadchiroli Museum, Gadchiroli",
+#     "Category:Features tribal art and cultural artifacts of the region."
+# ],
+
+# "Gandhinagar_Museum_Gandhinagar": [
+#     "Category:Gandhinagar Museum, Gandhinagar",
+#     "Category:Displays state-level historical collections and exhibits."
+# ],
+
+# "Ganjam_Museum_Berhampur": [
+#     "Category:Ganjam Museum, Berhampur",
+#     "Category:Highlights Ganjam's local history and cultural heritage."
+# ],
+
+# "Garhwal_Museum_Pauri_Garhwal": [
+#     "Category:Garhwal Museum, Pauri Garhwal",
+#     "Category:Focuses on Garhwal culture, traditions, and artifacts."
+# ],
+
+# "Giridih_Museum_Giridih": [
+#     "Category:Giridih Museum, Giridih",
+#     "Category:Preserves the district's history and archaeological finds."
+# ],
+
+# "Gonda_Museum_Gonda": [
+#     "Category:Gonda Museum, Gonda",
+#     "Category:Exhibits regional history and cultural materials."
+# ],
+
+# "Gopalganj_Museum_Gopalganj": [
+#     "Category:Gopalganj Museum, Gopalganj",
+#     "Category:Maintains local historical records and artifacts."
+# ],
+
+# "Gorakhpur_Museum_Gorakhpur": [
+#     "Category:Gorakhpur Museum, Gorakhpur",
+#     "Category:Showcases Gorakhpur's historical and cultural collections."
+# ],
+
+# "Gulbarga_Museum_Gulbarga": [
+#     "Category:Gulbarga Museum, Gulbarga",
+#     "Category:Displays regional history and medieval relics."
+# ],
+
+# "Guntur_Museum_Guntur": [
+#     "Category:Guntur Museum, Guntur",
+#     "Category:Focuses on Guntur's historical, cultural and archaeological items."
+# ],
+
+# "Hamirpur_Museum_Hamirpur": [
+#     "Category:Hamirpur Museum, Hamirpur",
+#     "Category:Features Himachali culture and regional heritage exhibits."
+# ],
+
+# "Harda_Museum_Harda": [
+#     "Category:Harda Museum, Harda",
+#     "Category:Preserves local history and historical documents of the region."
+# ],
+
+# "Hardoi_Museum_Hardoi": [
+#     "Category:Hardoi Museum, Hardoi",
+#     "Category:Shows artifacts and records relating to local history."
+# ],
+
+# "Hassan_Museum_Hassan": [
+#     "Category:Hassan Museum, Hassan",
+#     "Category:Contains artifacts reflecting Hassan district's past."
+# ],
+
+# "Hazaribagh_Museum_Hazaribagh": [
+#     "Category:Hazaribagh Museum, Hazaribagh",
+#     "Category:Exhibits local history, tribal culture, and regional archaeology."
+# ],
+
+# "Hoshiarpur_Museum_Hoshiarpur": [
+#     "Category:Hoshiarpur Museum, Hoshiarpur",
+#     "Category:Presents Hoshiarpur's historical collections and objects."
+# ],
+
+# "Hubli_Museum_Hubli": [
+#     "Category:Hubli Museum, Hubli",
+#     "Category:Documents Hubli's regional history and cultural heritage."
+# ],
+
+# "Hyderabad_Archaeological_Museum_Hyderabad": [
+#     "Category:Hyderabad Archaeological Museum, Hyderabad",
+#     "Category:Houses archaeological finds and ancient regional artifacts."
+# ],
+
+# "Imphal_Museum_Imphal": [
+#     "Category:Imphal Museum, Imphal",
+#     "Category:Highlights Manipur's cultural heritage and traditional arts."
+# ],
+
+# "Indore_Museum_Indore": [
+#     "Category:Indore Museum, Indore",
+#     "Category:Displays central India's history and archaeological items."
+# ],
+
+# "Jabalpur_Museum_Jabalpur": [
+#     "Category:Jabalpur Museum, Jabalpur",
+#     "Category:Showcases local history, fossils and regional artifacts."
+# ],
+
+# "Jagdalpur_Museum_Jagdalpur": [
+#     "Category:Jagdalpur Museum, Jagdalpur",
+#     "Category:Focuses on tribal culture and Chhattisgarh's heritage."
+# ],
+
+# "Jaipur_Museum_Jaipur": [
+#     "Category:Jaipur Museum, Jaipur",
+#     "Category:Has collections illustrating Rajasthan's royal and cultural past."
+# ],
+
+# "Jalandhar_Museum_Jalandhar": [
+#     "Category:Jalandhar Museum, Jalandhar",
+#     "Category:Exhibits local history and traditional artifacts of the area."
+# ],
+
+# "Jamnagar_Museum_Jamnagar": [
+#     "Category:Jamnagar Museum, Jamnagar",
+#     "Category:Preserves the maritime and regional history of Jamnagar."
+# ],
+
+# "Jashpur_Museum_Jashpur": [
+#     "Category:Jashpur Museum, Jashpur",
+#     "Category:Displays local history and tribal cultural objects from the district."
+# ],
+
+# "Jatani_Museum_Jatani": [
+#     "Category:Jatani Museum, Jatani",
+#     "Category:Highlights the historical heritage of the Jatani region."
+# ],
+
+# "Jehanabad_Museum_Jehanabad": [
+#     "Category:Jehanabad Museum, Jehanabad",
+#     "Category:Contains artefacts and records of Jehanabad's local history."
+# ],
+
+# "Jhabua_Museum_Jhabua": [
+#     "Category:Jhabua Museum, Jhabua",
+#     "Category:Focuses on tribal arts and cultural traditions of Jhabua."
+# ],
+
+# "Jhansi_Museum_Jhansi": [
+#     "Category:Jhansi Museum, Jhansi",
+#     "Category:Documents Jhansi's historical role and regional heritage."
+# ],
+
+# "Jhargram_Museum_Jhargram": [
+#     "Category:Jhargram Museum, Jhargram",
+#     "Category:Highlights tribal culture and local historical artifacts."
+# ],
+
+# "Jodhpur_Museum_Jodhpur": [
+#     "Category:Jodhpur Museum, Jodhpur",
+#     "Category:Showcases Jodhpur's royal history and cultural collections."
+# ],
+
+# "Kaimur_Museum_Kaimur": [
+#     "Category:Kaimur Museum, Kaimur",
+#     "Category:Presents the district's historical artifacts and folk culture."
+# ],
+
+# "Kalimpong_Museum_Kalimpong": [
+#     "Category:Kalimpong Museum, Kalimpong",
+#     "Category:Features Himalayan culture and regional historical items."
+# ],
+
+# "Kalyan_Museum_Kalyan": [
+#     "Category:Kalyan Museum, Kalyan",
+#     "Category:Preserves local history and artifacts of the Kalyan area."
+# ],
+
+# "Kamrup_Museum_Guwahati": [
+#     "Category:Kamrup Museum, Guwahati",
+#     "Category:Displays Assam's cultural history and archaeological finds."
+# ],
+
+# "Kancheepuram_Museum_Kancheepuram": [
+#     "Category:Kancheepuram Museum, Kancheepuram",
+#     "Category:Documents the temple town's history and religious artifacts."
+# ],
+
+# "Kannur_Museum_Kannur": [
+#     "Category:Kannur Museum, Kannur",
+#     "Category:Showcases Malabar history and local cultural objects."
+# ],
+
+# "Kapurthala_Museum_Kapurthala": [
+#     "Category:Kapurthala Museum, Kapurthala",
+#     "Category:Preserves Kapurthala's royal heritage and historical exhibits."
+# ],
+
+# "Karimnagar_Museum_Karimnagar": [
+#     "Category:Karimnagar Museum, Karimnagar",
+#     "Category:Highlights regional history and archaeological collections."
+# ],
+
+# "Karur_Museum_Karur": [
+#     "Category:Karur Museum, Karur",
+#     "Category:Displays Karur's ancient trade and cultural artifacts."
+# ],
+
+# "Kasaragod_Museum_Kasaragod": [
+#     "Category:Kasaragod Museum, Kasaragod",
+#     "Category:Focuses on local culture and coastal traditions of Kasaragod."
+# ],
+
+# "Katihar_Museum_Katihar": [
+#     "Category:Katihar Museum, Katihar",
+#     "Category:Documents the district's historical and cultural legacy."
+# ],
+
+# "Kendrapara_Museum_Kendrapara": [
+#     "Category:Kendrapara Museum, Kendrapara",
+#     "Category:Exhibits local history and coastal cultural heritage."
+# ],
+
+# "Khandwa_Museum_Khandwa": [
+#     "Category:Khandwa Museum, Khandwa",
+#     "Category:Displays artifacts reflecting the Nimar region's past."
+# ],
+
+# "Kheri_Museum_Kheri": [
+#     "Category:Kheri Museum, Kheri",
+#     "Category:Focuses on district history and traditional items."
+# ],
+
+# "Khordha_Museum_Khordha": [
+#     "Category:Khordha Museum, Khordha",
+#     "Category:Presents Khordha's historical artifacts and records."
+# ],
+
+# "Kishanganj_Museum_Kishanganj": [
+#     "Category:Kishanganj Museum, Kishanganj",
+#     "Category:Showcases the district's historical and cultural objects."
+# ],
+
+# "Kochi_Museum_Kochi": [
+#     "Category:Kochi Museum, Kochi",
+#     "Category:Highlights Kochi's maritime history and colonial-era artifacts."
+# ],
+
+# "Kohima_Museum_Kohima": [
+#     "Category:Kohima Museum, Kohima",
+#     "Category:Celebrates Nagaland's tribal heritage and traditional crafts."
+# ],
+
+# "Kolhapur_Museum_Kolhapur": [
+#     "Category:Kolhapur Museum, Kolhapur",
+#     "Category:Features Maratha history and regional cultural collections."
+# ],
+
+# "Kollam_Museum_Kollam": [
+#     "Category:Kollam Museum, Kollam",
+#     "Category:Preserves the coastal and cultural history of Kollam."
+# ],
+
+# "Koraput_Museum_Koraput": [
+#     "Category:Koraput Museum, Koraput",
+#     "Category:Highlights tribal arts and Koraput's cultural traditions."
+# ],
+
+# "Kota_Museum_Kota": [
+#     "Category:Kota Museum, Kota",
+#     "Category:Exhibits local history and Rajasthan's regional heritage."
+# ],
+
+# "Kottayam_Museum_Kottayam": [
+#     "Category:Kottayam Museum, Kottayam",
+#     "Category:Documents Kottayam's cultural and historical artifacts."
+# ],
+
+# "Kozhikode_Museum_Kozhikode": [
+#     "Category:Kozhikode Museum, Kozhikode",
+#     "Category:Showcases Malabar trade history and regional culture."
+# ],
+
+# "Krishna_District_Museum_Vijayawada": [
+#     "Category:Krishna District Museum, Vijayawada",
+#     "Category:Highlights the district's archaeological and historical finds."
+# ],
+
+# "Kullu_Museum_Kullu": [
+#     "Category:Kullu Museum, Kullu",
+#     "Category:Focuses on Himachali culture and mountain traditions."
+# ],
+
+# "Kurnool_Museum_Kurnool": [
+#     "Category:Kurnool Museum, Kurnool",
+#     "Category:Displays historical artifacts from the Kurnool region."
+# ],
+
+# "Lakhimpur_Museum_Lakhimpur": [
+#     "Category:Lakhimpur Museum, Lakhimpur",
+#     "Category:Preserves local history and Assamese cultural exhibits."
+# ],
+
+# "Lalitpur_Museum_Lalitpur": [
+#     "Category:Lalitpur Museum, Lalitpur",
+#     "Category:Showcases Bundelkhand's historical heritage and artifacts."
+# ],
+
+# "Latur_Museum_Latur": [
+#     "Category:Latur Museum, Latur",
+#     "Category:Documents Marathwada history and local cultural items."
+# ],
+
+# "Lohardaga_Museum_Lohardaga": [
+#     "Category:Lohardaga Museum, Lohardaga",
+#     "Category:Highlights regional history and tribal artifacts of Lohardaga."
+# ],
+
+# "Ludhiana_Museum_Ludhiana": [
+#     "Category:Ludhiana Museum, Ludhiana",
+#     "Category:Preserves Punjab's cultural and industrial heritage."
+# ],
+
+# "Madurai_Museum_Madurai": [
+#     "Category:Madurai Museum, Madurai",
+#     "Category:Displays ancient Tamil art and temple-related artifacts."
+# ],
+
+# "Mahbubnagar_Museum_Mahbubnagar": [
+#     "Category:Mahbubnagar Museum, Mahbubnagar",
+#     "Category:Features Telangana's local history and cultural items."
+# ],
+
+# "Mandsaur_Museum_Mandsaur": [
+#     "Category:Mandsaur Museum, Mandsaur",
+#     "Category:Exhibits archaeological finds and historical artifacts."
+# ],
+
+# "Mangaluru_Museum_Mangaluru": [
+#     "Category:Mangaluru Museum, Mangaluru",
+#     "Category:Highlights coastal Karnataka history and maritime heritage."
+# ],
+
+# "Manipal_Museum_Manipal": [
+#     "Category:Manipal Museum, Manipal",
+#     "Category:Displays regional history and academic collections."
+# ],
+
+# "Mathura_Museum_Mathura": [
+#     "Category:Mathura Museum, Mathura",
+#     "Category:Focuses on Mathura's religious and ancient historical artifacts."
+# ],
+
+# "Meerut_Museum_Meerut": [
+#     "Category:Meerut Museum, Meerut",
+#     "Category:Showcases Meerut's colonial and military history."
+# ],
+
+# "Midnapore_Museum_Midnapore": [
+#     "Category:Midnapore Museum, Midnapore",
+#     "Category:Documents Midnapore's historical events and cultural heritage."
+# ],
+
+# "Mirzapur_Museum_Mirzapur": [
+#     "Category:Mirzapur Museum, Mirzapur",
+#     "Category:Highlights local history and pottery/trade traditions."
+# ],
+
+# "Moradabad_Museum_Moradabad": [
+#     "Category:Moradabad Museum, Moradabad",
+#     "Category:Exhibits the city's metalwork history and local artifacts."
+# ]
+  "New_Delhi_Railway_Museum_New_Delhi": [
+        "Category:National Rail Museum (India)",
+        "Category:Interiors of National Rail Museum (India)"
+    ],
+    "Nilgiri_Museum_Ooty": [
+        "Category:Government Museum, Ooty"
+    ],
+    "Panaji_Museum_Panaji": [
+        "Category:Goa State Museum"
+    ],
+    "Pune_Museum_Pune": [
+        "Category:Raja Dinkar Kelkar Museum"
+    ],
+    "Rajkot_Museum_Rajkot": [
+        "Category:Watson Museum"
+    ],
+    "Shimla_State_Museum_Shimla": [
+        "Category:State Museum, Shimla",
+        "Category:Interiors of State Museum, Shimla"
+    ],
+    "Srinagar_Museum_Srinagar": [
+        "Category:Srinagar museums"
+    ],
+    "Thanjavur_Archaeological_Museum_Thanjavur": [
+        "Category:Thanjavur Art Gallery"
+    ],
+    "Thiruvananthapuram_Museum_Thiruvananthapuram": [
+        "Category:Napier Museum",
+        "Category:Interiors of Napier Museum"
+    ],
+    "Thrissur_Museum_Thrissur": [
+        "Category:Thrissur Archaeological Museum"
+    ],
+    "Tirunelveli_Museum_Tirunelveli": [
+        "Category:Government Museum, Tirunelveli"
+    ],
+    "Vadodara_Museum_Vadodara": [
+        "Category:Vadodara Museum & Picture Gallery",
+        "Category:Interiors of Vadodara Museum & Picture Gallery"
+    ],
+    "Varanasi_Museum_Varanasi": [
+        "Category:Bharat Kala Bhavan"
+    ],
+    "Vellore_Museum_Vellore": [
+        "Category:Government Museum, Vellore"
+    ],
+    "Vidisha_Museum_Vidisha": [
+        "Category:Vidisha District Museum"
+    ],
+    "Warangal_Museum_Warangal": [
+        "Category:Warangal museums"
+    ],
+    "Wayanad_Heritage_Museum_Wayanad": [
+        "Category:Wayanad Heritage Museum"
+    ],
+    "Zoological_Museum_Kolkata": [
+        "Category:Zoological Museum, Kolkata"
+    ],
+     "Panchkula_Museum_Panchkula": [
+        "Category:National Cactus and Succulent Botanical Garden and Research Centre"
     ],
 
-    "Palace_Museum_Gangtok": [
-        "Category:Gangtok",
-        "Category:Palaces in Sikkim",
-        "Category:Museums in Sikkim"
+    "Patan_Museum_Patan": [
+        "Category:Patan Museum"
     ],
 
-    "Ethnographic_Museum_Shillong": [
-        "Category:Ethnographic museums",
-        "Category:Shillong",
-        "Category:Museums in Meghalaya"
+    "Raipur_Museum_Raipur": [
+        "Category:Raipur museums"
     ],
 
-    "Lok_Virsa_Museum_New_Delhi": [
-        "Category:Lok Virsa",
-        "Category:Folk culture of India",
-        "Category:Museums in Delhi"
+    "Rajahmundry_Museum_Rajahmundry": [
+        "Category:Rajahmundry"
     ],
 
-    "Government_Museum_Baroda": [
-        "Category:Vadodara",
-        "Category:Government Museum, Vadodara",
-        "Category:Museums in Gujarat"
+    "Rajnandgaon_Museum_Rajnandgaon": [
+        "Category:Rajnandgaon"
     ],
 
-    "District_Museum_Dibrugarh": [
-        "Category:Dibrugarh",
-        "Category:District museums in India",
-        "Category:Museums in Assam"
+    "Raurkela_Museum_Raurkela": [
+        "Category:Rourkela"
     ],
 
-    "Museum_of_Religious_Arts_Varanasi": [
-        "Category:Varanasi",
-        "Category:Religion in India",
-        "Category:Museums in Uttar Pradesh"
+    "Rewa_Museum_Rewa": [
+        "Category:Rewa"
     ],
 
-    "Government_Museum_Thanjavur": [
-        "Category:Thanjavur",
-        "Category:Government Museum, Thanjavur",
-        "Category:Museums in Tamil Nadu"
+    "Rohtak_Museum_Rohtak": [
+        "Category:Rohtak"
     ],
 
-    "Kerala_Museum_of_Folk_Art_Kochi": [
-        "Category:Folk art of Kerala",
-        "Category:Kochi",
-        "Category:Museums in Kerala"
+    "Sagar_Museum_Sagar": [
+        "Category:Sagar"
     ],
 
-    "Sanket_Heritage_Museum_Mysuru": [
-        "Category:Mysore",
-        "Category:Heritage museums in Karnataka",
-        "Category:Museums in India"
+    "Saharanpur_Museum_Saharanpur": [
+        "Category:Saharanpur"
     ],
 
-    "Museum_of_Punjab_Heritage_Ludhiana": [
-        "Category:Punjab Heritage Museum",
-        "Category:Ludhiana",
-        "Category:Museums in Punjab"
+    "Salem_Museum_Salem": [
+        "Category:Salem, Tamil Nadu"
     ],
 
-    "Railway_Heritage_Centre_Chennai": [
-        "Category:Railway Heritage Centre, Chennai",
-        "Category:Rail transport in India",
-        "Category:Museums in Tamil Nadu"
+    "Sambalpur_Museum_Sambalpur": [
+        "Category:Sambalpur"
     ],
 
-    "Government_Museum_Ahmedabad": [
-        "Category:Central Museum Ahmedabad",
-        "Category:Ahmedabad",
-        "Category:Museums in Gujarat"
+    "Sangli_Museum_Sangli": [
+        "Category:Sangli"
     ],
 
-    "Museum_of_Gujarat_History_Ahmedabad": [
-        "Category:Gujarat",
-        "Category:History museums in India",
-        "Category:Museums in Ahmedabad"
+    "Satara_Museum_Satara": [
+        "Category:Satara"
     ],
 
-    "Bikaner_Museum": [
-        "Category:Bikaner",
-        "Category:Museums in Rajasthan",
-        "Category:History of Rajasthan"
+    "Seoni_Museum_Seoni": [
+        "Category:Seoni district"
     ],
 
-    "Gujarat_Maritime_Museum_Ahmedabad": [
-        "Category:Maritime museums in India",
-        "Category:Ahmedabad",
-        "Category:Gujarat"
+    "Sikar_Museum_Sikar": [
+        "Category:Sikar"
     ],
 
-    "Museum_of_National_Defence_New_Delhi": [
-        "Category:National Defence Museum",
-        "Category:Military history of India",
-        "Category:Museums in Delhi"
+    "Silchar_Museum_Silchar": [
+        "Category:Silchar"
     ],
 
-    "Museum_of_Indian_Independence_New_Delhi": [
-        "Category:Independence museums",
-        "Category:Indian independence movement",
-        "Category:Museums in Delhi"
+    "Siliguri_Museum_Siliguri": [
+        "Category:Siliguri"
     ],
 
-    "Museum_of_Ancient_History_Patna": [
-        "Category:Patna",
-        "Category:Ancient history museums",
-        "Category:Museums in Bihar"
+    "Singrauli_Museum_Singrauli": [
+        "Category:Singrauli"
     ],
 
-    "State_Tribal_Museum_Raipur": [
-        "Category:State Tribal Museum, Raipur",
-        "Category:Tribal culture of Chhattisgarh",
-        "Category:Museums in Chhattisgarh"
+    "Solapur_Museum_Solapur": [
+        "Category:Solapur"
     ],
 
-    "Museum_of_Indian_Railways_Delhi": [
-        "Category:National Rail Museum, New Delhi",
-        "Category:Railway museums in India",
-        "Category:Rail transport in India"
+    "Sonipat_Museum_Sonipat": [
+        "Category:Sonipat"
     ],
 
-    "Museum_of_Indian_Culture_New_Delhi": [
-        "Category:Indian culture",
-        "Category:Museums in Delhi",
-        "Category:Culture of India"
+    "Tezpur_Museum_Tezpur": [
+        "Category:Tezpur"
     ],
 
-    "Regional_Science_Centre_Bhubaneswar": [
-        "Category:Regional Science Centre, Bhubaneswar",
-        "Category:Science museums in India",
-        "Category:Bhubaneswar"
+    "Tumkur_Museum_Tumkur": [
+        "Category:Tumkur"
     ],
 
-    "Museum_of_Indian_Art_New_Delhi": [
-        "Category:Indian art",
-        "Category:Art museums and galleries in India",
-        "Category:Museums in Delhi"
+    "Udupi_Museum_Udupi": [
+        "Category:Udupi"
     ],
 
-    "Heritage_Museum_Ranchi": [
-        "Category:Ranchi",
-        "Category:Heritage museums in India",
-        "Category:Museums in Jharkhand"
+    "Una_Museum_Una": [
+        "Category:Una district"
     ],
 
-    "Museum_of_Tribal_Culture_Ranchi": [
-        "Category:Tribal culture of Jharkhand",
-        "Category:Ranchi",
-        "Category:Tribal museums in India"
+    "Varanasi_Museum_Varanasi": [
+        "Category:Bharat Kala Bhavan"
     ],
 
-    "Museum_of_Science_and_Technology_Bhopal": [
-        "Category:Science museums in India",
-        "Category:Bhopal",
-        "Category:Museums in Madhya Pradesh"
+    "Yadgir_Museum_Yadgir": [
+        "Category:Yadgir"
     ],
 
-    "Museum_of_Central_Asian_and_Kargil_Trade_Artefacts_Kargil": [
-        "Category:Kargil",
-        "Category:Central Asian trade",
-        "Category:Museums in Ladakh"
+    "Aizawl_Museum_Aizawl": [
+        "Category:Mizoram State Museum"
     ],
 
-    "Museum_of_Kashmir_Arts_Srinagar": [
-        "Category:Art of Jammu and Kashmir",
-        "Category:Srinagar",
-        "Category:Museums in Jammu and Kashmir"
+    "Alappuzha_Maritime_Museum_Alappuzha": [
+        "Category:Alleppey"
     ],
 
-    "Museum_of_Handicrafts_Jaipur": [
-        "Category:Handicrafts of India",
-        "Category:Jaipur",
-        "Category:Museums in Rajasthan"
+    "Ambedkar_Memorial_Indore": [
+        "Category:Dr. Bhimrao Ambedkar memorial sites"
     ],
 
-    "Museum_of_Indian_Textiles_New_Delhi": [
-        "Category:Textiles of India",
-        "Category:Textile museums in India",
-        "Category:Museums in Delhi"
+    "Anantapur_District_Museum_Anantapur": [
+        "Category:Anantapur"
+    ],
+      "Archaeological_Museum_Raipur": [
+        "Category:Raipur"
     ],
 
-    "Museum_of_Folk_Arts_Shillong": [
-        "Category:Folk arts of Meghalaya",
-        "Category:Shillong",
-        "Category:Museums in Meghalaya"
+    "Assam_State_Museum_Guwahati": [
+        "Category:Assam State Museum"
     ],
 
-    "Museum_of_Archaeology_and_Ethnology_Guwahati": [
-        "Category:Archaeology of Assam",
-        "Category:Guwahati",
-        "Category:Museums in Assam"
+    "Balangir_Museum_Balangir": [
+        "Category:Balangir"
     ],
 
-    "Rajasthan_Textile_Museum_Jodhpur": [
-        "Category:Textiles of India",
-        "Category:Jodhpur",
-        "Category:Museums in Rajasthan"
+    "Barmer_Museum_Barmer": [
+        "Category:Barmer"
     ],
 
-    "Coorg_Heritage_Museum_Madikeri": [
-        "Category:Coorg",
-        "Category:Heritage museums in Karnataka",
-        "Category:Museums in Kodagu"
+    "Begusarai_Museum_Begusarai": [
+        "Category:Begusarai"
     ],
 
-    "Bengal_Maritime_Museum_Howrah": [
-        "Category:Maritime museums in India",
-        "Category:Howrah",
-        "Category:Museums in West Bengal"
+    "Bengal_Museum_of_Industrial_Archaeology_Kolkata": [
+        "Category:Industrial archaeology in India",
+        "Category:Kolkata"
     ],
 
-    "Sikkim_Himalayan_Art_Museum_Gangtok": [
-        "Category:Himalayan art",
-        "Category:Gangtok",
-        "Category:Museums in Sikkim"
+    "Bhadrak_Museum_Bhadrak": [
+        "Category:Bhadrak"
     ],
 
-    "Mizoram_Tribal_Heritage_Centre_Aizawl": [
-        "Category:Tribal culture of Mizoram",
-        "Category:Aizawl",
-        "Category:Museums in Mizoram"
+    "Bhandara_Museum_Bhandara": [
+        "Category:Bhandara"
     ],
 
-    "Chhattisgarh_Tribal_Museum_Raipur": [
-        "Category:Tribal museums in India",
-        "Category:Raipur",
-        "Category:Museums in Chhattisgarh"
+    "Bhilai_Steel_Plant_Museum_Bhilai": [
+        "Category:Bhilai Steel Plant",
+        "Category:Bhilai"
     ],
 
-    "Assam_Silk_Museum_Guwahati": [
-        "Category:Silk",
-        "Category:Guwahati",
-        "Category:Textile museums in India"
+    "Bilaspur_Tribal_Museum_Bilaspur": [
+        "Category:Bilaspur"
     ],
 
-    "Nagaland_War_Memorial_Museum_Kohima": [
-        "Category:Kohima",
-        "Category:War memorials in India",
-        "Category:Museums in Nagaland"
+    "Brahmapur_Museum_Brahmapur": [
+        "Category:Brahmapur"
     ],
 
-    "Kerala_Spice_Museum_Kochi": [
-        "Category:Spices of India",
-        "Category:Kochi",
-        "Category:Museums in Kerala"
+    "Chennai_Museum_Chennai": [
+        "Category:Government Museum, Chennai"
     ],
 
-    "Uttaranchal_Folk_Arts_Museum_Dehradun": [
-        "Category:Folk arts of Uttarakhand",
-        "Category:Dehradun",
-        "Category:Museums in Uttarakhand"
+    "Chhattisgarh_State_Museum_Raipur": [
+        "Category:Chhattisgarh State Museum"
     ],
 
-    "Tamil_Nadu_Handloom_Museum_Coimbatore": [
-        "Category:Handloom weaving",
-        "Category:Coimbatore",
-        "Category:Textile museums in India"
+    "Coimbatore_Museum_Coimbatore": [
+        "Category:Coimbatore"
     ],
 
-    "Odisha_Tribal_Heritage_Museum_Bhubaneswar": [
-        "Category:Tribal culture of Odisha",
-        "Category:Bhubaneswar",
-        "Category:Museums in Odisha"
+    "Dehradun_Fossil_Museum_Dehradun": [
+        "Category:Dehradun"
     ],
 
-    "Haryana_Folk_Culture_Museum_Hisar": [
-        "Category:Folk arts of Haryana",
-        "Category:Hisar",
-        "Category:Museums in Haryana"
+    "Dhanbad_Museum_Dhanbad": [
+        "Category:Dhanbad"
     ],
 
-    "MP_Stone_Sculpture_Museum_Indore": [
-        "Category:Stone sculptures in India",
-        "Category:Indore",
-        "Category:Madhya Pradesh art"
+    "Gandhinagar_Science_Museum_Gandhinagar": [
+        "Category:Gandhinagar"
     ],
 
-    "Jharkhand_Tribal_Art_Gallery_Ranchi": [
-        "Category:Tribal art of Jharkhand",
-        "Category:Ranchi",
-        "Category:Museums in Jharkhand"
+    "Vasai_Fort_Museum_Vasai": [
+        "Category:Vasai Fort"
+    ],
+
+    "Vellore_Fort_Museum_Vellore": [
+        "Category:Vellore Fort"
+    ],
+
+    "Veraval_Museum_Veraval": [
+        "Category:Veraval"
+    ],
+
+    "Vizianagaram_Museum_Vizianagaram": [
+        "Category:Vizianagaram"
+    ],
+
+    "Wayanad_Heritage_Museum_Wayanad": [
+        "Category:Wayanad Heritage Museum"
+    ],
+
+    "West_Bengal_Police_Museum_Kolkata": [
+        "Category:West Bengal Police Museum"
+    ],
+
+    "Yamunanagar_Museum_Yamunanagar": [
+        "Category:Yamunanagar"
+    ],
+
+    "Zawar_Mines_Museum_Udaipur": [
+        "Category:Zawar"
+    ],
+
+    "Zoological_Museum_Kolkata": [
+        "Category:Zoological Museum, Kolkata"
     ]
-
-
-
 }
+
 
 
 def make_folder(path):
